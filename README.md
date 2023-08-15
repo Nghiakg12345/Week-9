@@ -59,3 +59,12 @@ Files and URLs containing HTML often have a .html or .htm filename extension.
     <body>
     </body>
     </html>
+
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" title="Electron Joke" border="0" align="left" /> This is a funny image about electrons.</p>
+<body>
+</body>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" border="0" align="left" height="432" width="480" />
+<body>
+</body>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" border="0" align="left" height="100" width="125" />
