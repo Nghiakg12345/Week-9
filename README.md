@@ -68,3 +68,17 @@ Files and URLs containing HTML often have a .html or .htm filename extension.
 <body>
 </body>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" border="0" align="left" height="100" width="125" />
+
+<img src="broken.jpg" border="0" align="left" height="200" width="250" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" border="0" align="left" height="200" width="250" alt="Electron Joke" />
+<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" alt="Electron Joke" height="200" align="left" width="250" />
+
+<a href="http://www.unisa.edu.au/">University of South Australia</a>
+<a href="http://www.jkrowling.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" border="0" align="left" /></a>
+
+<p>"HTML" (2008, December 3). In <em>Wikipedia, the free encyclopedia.</em> Retrieved December 3, 2008, from http://en.wikipedia.org/wiki/html</p>
+<p>This will be displayed by the browser</p>
+<!-- This will not be displayed by the browser -->
+
+
+
