@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Tony Browser</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+<h1>IT Fundamentals</h1>
+<ul>
+    <li>Name :VO</li>
+    <li>Student ID: 42956</li>
+    <li>Gmail:Nghia1223n@gmail.com</li>
+    <li>Task 10</li>
+</ul>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg" title="Electron Joke" border="0" align="left" /> This is a creppy image about Robot.</p>
 </body>
 </html>
